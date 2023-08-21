@@ -8,4 +8,4 @@
 
 
 
-repository for educational projects
+
