@@ -10,7 +10,7 @@
 
 <img src="https://ko-svetlana.github.io/images/project1_thumbnail.png?raw=true"/>
 
-[Смотерть презентацию (pdf)](https://drive.google.com/file/d/1oZGuyUqDXmkvyDpu0M8nBLABAPZuHHbI/view?usp=sharing)
+[Смотреть презентацию (pdf)](https://drive.google.com/file/d/1oZGuyUqDXmkvyDpu0M8nBLABAPZuHHbI/view?usp=sharing)
 
 
 
